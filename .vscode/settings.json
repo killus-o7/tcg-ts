@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/.editorconfig": true,
+        "**/.eslintignore": true,
+        "**/.eslintrc.json": true,
+        "**/.prettierrc.js": true,
+        "**/package-lock.json": true
+    }
+}

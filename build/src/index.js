@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const Resources_1 = require("./classes/Resources");
-console.log(Resources_1.default.seks());
+class TCG {
+}
+exports.default = TCG;
 //# sourceMappingURL=index.js.map

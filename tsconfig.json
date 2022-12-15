@@ -4,6 +4,11 @@
     "rootDir": ".",
     "outDir": "build"
   },
+  "paths": {
+    "resources/*": ["resources/*"],
+    "classes/*": ["src/classes/*"],
+    "handlers/*": ["src/handlers/*"],
+  },
   "include": [
     "src/**/*.ts",
     "test/**/*.ts"
