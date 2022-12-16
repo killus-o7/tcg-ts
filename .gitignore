@@ -1,6 +1,2 @@
 node_modules
-.editorconfig
-.eslintignore
-.eslintrc.json
-.prettierrc.js
 build
