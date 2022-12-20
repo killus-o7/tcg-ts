@@ -5,7 +5,7 @@
     "outDir": "build"
   },
   "paths": {
-    "resources/*": ["resources/*"],
+    "resources/*": ["$/*"],
     "classes/*": ["src/classes/*"],
     "handlers/*": ["src/handlers/*"],
   },
